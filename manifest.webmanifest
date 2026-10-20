@@ -1,0 +1,1 @@
+{"name":"Finance Dashboard","short_name":"家計","start_url":"./","display":"standalone","background_color":"#f4f5f7","lang":"ja","scope":"./","description":"今日使える金額・カード請求・返済計画を毎日確認する個人用ダッシュボード","theme_color":"#0f5257","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
